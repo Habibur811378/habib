@@ -1,0 +1,16 @@
+{
+  "name": "day-27/day-27",
+  "type": "project",
+  "description": "PHP Blog Project",
+  "keyword": [],
+  "license": "",
+  "require": {
+    "ext-mysqli": "*"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
